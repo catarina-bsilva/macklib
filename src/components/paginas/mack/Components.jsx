@@ -276,7 +276,7 @@ const Components = () => {
           <div className="card2-horizontal-xl">
             <h2 className="cardTitle">card2-horizontal-xl</h2>
             <div className="cardBody">
-              <img src="./dist/foto.png" alt="foto"/>
+              <img src={foto} alt="foto"/>
               <div className="cardContent">
                 <div className="cardTopic">
                   <h3>cardTopic:</h3>
