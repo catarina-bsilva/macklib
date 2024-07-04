@@ -5,10 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   assetsInclude: ['**/*.zip'],
-  build: {
-    rollupOptions: {
-      input: './public/index.html', // Certifique-se de que o caminho está correto
-    },
-  },
   base: "/macklib"
 })
