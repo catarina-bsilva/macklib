@@ -1,0 +1,71 @@
+.navbar-sm
+    padding: $size1 $size2
+
+.navbar-md
+    padding: $size2 $size3
+
+.navbar-lg
+    padding: $size3 $size4
+
+//NAVBAR 1
+.flex-layout
+    width: 100%
+    display: flex
+    align-items: center
+    justify-content: space-between
+    box-sizing: border-box
+       
+.navbar1
+    @extend .flex-layout
+    box-shadow: $boxShadow1
+
+    .siteTitle-xl
+        font-size: $fontSizeXL
+
+    .siteTitle-lg
+        font-size: $fontSizeLG
+
+    .siteTitle-md
+        font-size: $fontSizeMD
+
+    .siteTitle-sm
+        font-size: $fontSizeSM
+
+    .container
+        @extend .flex-layout
+
+    .container100
+        @extend .flex-layout
+      
+@each $key, $val in $colorsMap
+    .navbar1-#{$key}
+        @extend .navbar1
+        background-color: $val
+
+//NAVBAR 2
+
+.navbar2
+    width: 100%
+    display: flex
+    flex-direction: column
+    box-shadow: $boxShadow1
+    .siteTitle
+        text-align: center
+    .container
+        @extend .flex-layout
+        
+    .container100
+        @extend .flex-layout
+
+.navbar-row
+    width: 100vw
+    max-width: 1200px
+    display: flex
+    align-items: center
+    justify-content: space-evenly
+    margin: 5px auto
+
+@each $key, $val in $colorsMap
+    .navbar2-#{$key}
+        @extend .navbar1
+        background-color: $val

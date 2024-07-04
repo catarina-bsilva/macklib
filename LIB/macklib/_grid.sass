@@ -1,0 +1,73 @@
+@use "sass:math"
+
+//base layout classes
+.container
+    width: 100%
+    max-width: 1200px
+    margin: 0 auto
+    padding: 0 20px
+    box-sizing: border-box
+
+.container100
+    width: 100%
+    margin: 0 auto
+    padding: 0 20px
+    box-sizing: border-box
+.row
+    display: flex
+    flex-flow: row wrap
+
+//grid gaps
+@each $key, $val in $gridGapsMap
+    .gap-#{$key} > * 
+        padding: $val
+    
+    .gap-#{$key}
+        margin-left: -$val
+        margin-right: -$val
+
+//justify content classes
+@each $val in $layoutValuesMap
+    .justify-#{$val}
+        justify-content: $val
+
+    .align-#{$val}
+        align-items: $val
+
+
+//col classes
+@include xs
+    @for $i from 1 through $gridColumns
+        .col-#{$i}-xs
+            box-sizing: border-box
+            flex-grow: 0
+            width: math.div($i * 100%, $gridColumns)
+
+@include sm
+    @for $i from 1 through $gridColumns
+        .col-#{$i}-sm
+            box-sizing: border-box
+            flex-grow: 0
+            width: math.div($i * 100%, $gridColumns)
+
+@include md
+    @for $i from 1 through $gridColumns
+        .col-#{$i}-md
+            box-sizing: border-box
+            flex-grow: 0
+            width: math.div($i * 100%, $gridColumns)
+
+@include lg
+    @for $i from 1 through $gridColumns
+        .col-#{$i}-lg
+            box-sizing: border-box
+            flex-grow: 0
+            width: math.div($i * 100%, $gridColumns)
+
+@include xl
+    @for $i from 1 through $gridColumns
+        .col-#{$i}-xl
+            box-sizing: border-box
+            flex-grow: 0
+            width: math.div($i * 100%, $gridColumns)
+

@@ -1,0 +1,85 @@
+@mixin btn($bg-color: #fff)
+    text-decoration: none
+    display: inline-block
+    border: 0
+    padding: $size1 $size3
+    border-radius: $borderRadius1
+    background-color: $bg-color
+    cursor: pointer
+
+@mixin btnXL
+    width: 95vw
+    display: block !important
+    margin: $size2 auto
+    padding: $size2
+
+@mixin btnL
+    width: 50vw
+    display: block !important
+    margin: $size2 auto
+    padding: $size2
+
+@mixin btnM
+    width: 30vw
+    display: block !important
+    margin: $size2 auto
+    padding: $size2
+
+@mixin hover
+    cursor: pointer
+    font-weight: $fontWeightLG
+
+@mixin hoverOutlined($value)
+    background-color: #fff
+    border: $borderThickness2 solid $value     
+
+.btn
+    @include btn
+
+.btn-md
+    @include btn
+    @include btnM
+
+.btn-lg
+    @include btn
+    @include btnL
+
+.btn-xl
+    @include btn
+    @include btnXL
+
+@each $key, $val in $colorsMap
+    .btn-#{$key}
+        @include btn($val)
+        &:hover
+            background-color: lighten($val, 9)
+            @include hover
+            @if($val == #000000)
+                background-color: lighten($val, 30)
+
+    .btn-hoverOutlined-#{$key}
+        @include btn($val)
+        &:hover
+            @include hover
+            @include hoverOutlined($val)
+
+    .btn-outlined-#{$key}
+        @include btn
+        border: $borderThickness2 solid $val
+        &:hover
+            background-color: $val
+            @include hover
+            @if($val == #000000)
+                color: #F6F6F6
+
+    .btn-complement-#{$key}
+        @include btn($val)
+        color: lightComp($val)
+        &:hover
+            @include hover
+            background-color: lightComp($val)
+            color: $val
+
+    
+
+    

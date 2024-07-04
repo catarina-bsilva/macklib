@@ -1,0 +1,17 @@
+@each $key, $val in $colorsMap
+    .link-#{$key}
+        color: $val 
+        &:hover
+            font-weight: bolder
+    .link-underline-#{$key}
+        color: $val 
+        text-decoration: underline 
+        &:hover
+            font-weight: bolder     
+    .link-bg-#{$key}
+        background-color: $val 
+        color: lightComp($val) 
+        &:hover
+            background-color: lightComp($val) 
+            color: $val 
+     

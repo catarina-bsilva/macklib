@@ -1,0 +1,153 @@
+@function mapKeys($map)
+  $keys: ()
+  @each $key, $value in $map
+    $keys: append($keys, $key)
+  @return $keys
+
+@function getColor($name)
+  @return map-get($themeColorsMap, $name)
+
+$keys: mapKeys($themeColorsMap)
+$length: length($keys)
+
+//classes txt e bg
+@each $key, $val in $colorsMap 
+    .text-#{$key} 
+        color: $val 
+
+    .text-hover-#{$key}
+        &:hover
+            color: $val
+            cursor: pointer
+    
+    .bg-#{$key} 
+        background-color: $val 
+
+    .bg-hover-#{$key} 
+        &:hover
+            background-color: $val
+            cursor: pointer
+
+    @if ($val != #F6F6F6 and $val != #000000)
+        @for $i from 1 through 9
+            $proportion: $i * 10%
+            .text-#{$key}-light-#{$i}
+                color: mix(white, $val, $proportion)
+            .text-#{$key}-hover-light-#{$i}
+                &:hover
+                    color: mix(white, $val, $proportion)
+                    cursor: pointer
+            .bg-#{$key}-light-#{$i}
+                background-color: mix(white, $val, $proportion)
+            .bg-#{$key}-hover-light-#{$i}
+                &:hover
+                    background-color: mix(white, $val, $proportion)
+                    cursor: pointer
+
+        @for $i from 1 through 9
+            $proportion: $i * 10%
+            .text-#{$key}-dark-#{$i}
+                color: mix(black, $val, $proportion)
+            .bg-#{$key}-dark-#{$i}
+                background-color: mix(black, $val, $proportion)
+
+
+//gradient
+.grad-color1-color2-linear 
+  background: linear-gradient(to right, #A2F79F, #F2F99D)
+
+.grad-color1-color2-color3-linear
+  background: linear-gradient(to right, #A2F79F, #F2F99D, #FAC99C)
+
+.grad-color1-color2-color3-color4-linear
+  background: linear-gradient(to right, #A2F79F, #F2F99D, #FAC99C, #2f10db)
+
+.grad-color1-color2-color4-linear
+  background: linear-gradient(to right, #A2F79F, #F2F99D, #2f10db)
+
+.grad-color1-color3-linear
+  background: linear-gradient(to right, #A2F79F, #FAC99C)
+
+.grad-color1-color3-color4-linear
+  background: linear-gradient(to right, #A2F79F, #FAC99C, #2f10db)
+
+.grad-color1-color4-linear
+  background: linear-gradient(to right, #A2F79F, #2f10db)
+
+.grad-color2-color3-linear
+  background: linear-gradient(to right, #F2F99D, #FAC99C)
+
+.grad-color2-color3-color4-linear
+  background: linear-gradient(to right, #F2F99D, #FAC99C, #2f10db)
+
+.grad-color2-color4-linear
+  background: linear-gradient(to right, #F2F99D, #2f10db)
+
+.grad-color3-color4-linear
+  background: linear-gradient(to right, #FAC99C, #2f10db)
+
+.grad-color1-color2-radial 
+  background: radial-gradient(to right, #A2F79F, #F2F99D)
+
+.grad-color1-color2-color3-radial
+  background: radial-gradient(to right, #A2F79F, #F2F99D, #FAC99C)
+
+.grad-color1-color2-color3-color4-radial
+  background: radial-gradient(to right, #A2F79F, #F2F99D, #FAC99C, #2f10db)
+
+.grad-color1-color2-color4-radial
+  background: radial-gradient(to right, #A2F79F, #F2F99D, #2f10db)
+
+.grad-color1-color3-radial
+  background: radial-gradient(to right, #A2F79F, #FAC99C)
+
+.grad-color1-color3-color4-radial
+  background: radial-gradient(to right, #A2F79F, #FAC99C, #2f10db)
+
+.grad-color1-color4-radial
+  background: radial-gradient(to right, #A2F79F, #2f10db)
+
+.grad-color2-color3-radial
+  background: radial-gradient(to right, #F2F99D, #FAC99C)
+
+.grad-color2-color3-color4-radial
+  background: radial-gradient(to right, #F2F99D, #FAC99C, #2f10db)
+
+.grad-color2-color4-radial
+  background: radial-gradient(to right, #F2F99D, #2f10db)
+
+.grad-color3-color4-radial
+  background: radial-gradient(to right, #FAC99C, #2f10db)
+
+.grad-color1-color2-conic 
+  background: conic-gradient(from 0deg, #A2F79F, #F2F99D)
+
+.grad-color1-color2-color3-conic
+  background: conic-gradient(from 0deg, #A2F79F, #F2F99D, #FAC99C)
+
+.grad-color1-color2-color3-color4-conic
+  background: conic-gradient(from 0deg, #A2F79F, #F2F99D, #FAC99C, #2f10db)
+
+.grad-color1-color2-color4-conic
+  background: conic-gradient(from 0deg, #A2F79F, #F2F99D, #2f10db)
+
+.grad-color1-color3-conic
+  background: conic-gradient(from 0deg, #A2F79F, #FAC99C)
+
+.grad-color1-color3-color4-conic
+  background: conic-gradient(from 0deg, #A2F79F, #FAC99C, #2f10db)
+
+.grad-color1-color4-conic
+  background: conic-gradient(from 0deg, #A2F79F, #2f10db)
+
+.grad-color2-color3-conic
+  background: conic-gradient(from 0deg, #F2F99D, #FAC99C)
+
+.grad-color2-color3-color4-conic
+  background: conic-gradient(from 0deg, #F2F99D, #FAC99C, #2f10db)
+
+.grad-color2-color4-conic
+  background: conic-gradient(from 0deg, #F2F99D, #2f10db)
+
+.grad-color3-color4-conic
+  background: conic-gradient(from 0deg, #FAC99C, #2f10db)

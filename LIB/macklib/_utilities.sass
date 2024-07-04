@@ -1,0 +1,65 @@
+@use 'sass:math'
+
+//padding - margin 
+@each $key, $prop in $propertiesMap
+  @each $val, $size in $sizesMap
+    .#{$key}-#{$val}
+      #{$prop}: $size
+
+.m-a
+    margin-left: auto
+    margin-right: auto
+
+//opacity
+@each $key, $val in $opacityMap
+    .opacity-#{$key}
+        opacity: $val
+
+//border
+@each $key, $val in $borderRadiusMap
+    .borderRadius-#{$key}
+        border-radius: $val
+
+@each $key, $val in $borderThicknessMap
+    .borderThickness-#{$key}
+        border-width: $val
+
+@each $key, $val in $colorsMap
+    .borderColor-#{$key}
+        border-color: $val
+
+@each $key, $val in $borderStyleMap
+    .borderStyle-#{$key}
+        border-style: $val
+
+//box shadow
+@each $key, $val in $boxShadowMap
+    .boxShadow-#{$key}
+        box-shadow: $val
+
+//display
+@each $key, $val in $displayMap
+    .display-#{$key}
+        display: $val
+
+@each $key, $val in $flexDirectionMap
+    .flexDirection-#{$key}
+        flex-direction: $val
+
+//position
+@each $key, $val in $positionMap
+    .position-#{$key}
+        position: $val
+
+@each $key, $val in $positionValuesMap
+    .position-#{$key}
+        position: $val
+
+//width - height
+@each $key, $val in $widthMap
+    .width-#{$key}
+        width: $val
+
+@each $key, $val in $heightMap
+    .height-#{$key}
+        height: $val

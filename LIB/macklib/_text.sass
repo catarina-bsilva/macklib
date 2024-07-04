@@ -1,0 +1,32 @@
+//font
+.font-primary
+    font-family: $fontPrimary
+.font-secondary
+    font-family: $fontSecondary
+
+@each $key, $val in $fontSizeMap
+    .fontSize-#{$key}
+        font-size: $val
+
+@each $key, $val in $fontWeightMap
+    .fontWeight-#{$key}
+        font-weight: $val
+
+//text alignment
+@each $key, $val in $textAlignmentMap
+    .textAlign-#{$key}
+        text-align: $val
+
+//text-decoration
+@each $key, $val in $textDecorationMap
+    .textDecoration-#{$key}
+        text-decoration: $val
+
+//list-styles
+@each $key, $val in $listStylesMap
+    .listStyle-#{$key}
+        list-style: $val !important
+
+//cursor
+.pointer
+    cursor: pointer
