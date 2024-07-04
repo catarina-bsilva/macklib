@@ -4,7 +4,7 @@ import { useEffect } from "react"
 function App() {
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = "../public/macklib.zip"
+    link.href = "/macklib.zip"
     link.download = 'macklib.zip';
     document.body.appendChild(link);
     link.click();
