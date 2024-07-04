@@ -38,28 +38,28 @@ const Components = () => {
           <div className="card1-vertical-sm">
             <h2 className="cardTitle">card1-vertical-sm</h2>
             <div className="cardContent">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <p className="cardTopic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum ad magni doloremque voluptas fugit, saepe repudiandae veritatis dolore nulla ullam.</p>
             </div>
           </div>
           <div className="card1-vertical-md">
             <h2 className="cardTitle">card1-vertical-md</h2>
             <div className="cardContent">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <p className="cardTopic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum ad magni doloremque voluptas fugit, saepe repudiandae veritatis dolore nulla ullam.</p>
             </div>
           </div>
           <div className="card1-vertical-lg">
             <h2 className="cardTitle">card1-vertical-lg</h2>
             <div className="cardContent">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <p className="cardTopic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum ad magni doloremque voluptas fugit, saepe repudiandae veritatis dolore nulla ullam.</p>
             </div>
           </div>
           <div className="card1-vertical-xl">
             <h2 className="cardTitle">card1-vertical-xl</h2>
             <div className="cardContent">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <p className="cardTopic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum ad magni doloremque voluptas fugit, saepe repudiandae veritatis dolore nulla ullam.</p>
             </div>
           </div>
@@ -69,14 +69,14 @@ const Components = () => {
           <div className="card1-horizontal-sm">
             <h2 className="cardTitle">card1-horizontal-sm</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <p className="cardTopic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum ad magni doloremque voluptas fugit, saepe repudiandae veritatis dolore nulla ullam.</p>
             </div>
           </div>
           <div className="card1-horizontal-md">
             <h2 className="cardTitle">card1-horizontal-md</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <p className="cardTopic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum ad magni doloremque voluptas fugit, saepe repudiandae veritatis dolore nulla ullam.</p>
             </div>
           </div>
@@ -85,14 +85,14 @@ const Components = () => {
           <div className="card1-horizontal-lg">
             <h2 className="cardTitle">card1-horizontal-lg</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <p className="cardTopic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum ad magni doloremque voluptas fugit, saepe repudiandae veritatis dolore nulla ullam.</p>
             </div>
           </div>
           <div className="card1-horizontal-xl">
             <h2 className="cardTitle">card1-horizontal-xl</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <p className="cardTopic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum ad magni doloremque voluptas fugit, saepe repudiandae veritatis dolore nulla ullam.</p>
             </div>
           </div>
@@ -102,7 +102,7 @@ const Components = () => {
           <div className="card2-vertical-sm">
             <h2 className="cardTitle">card2-vertical-sm</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <div className="cardContent">
                 <div className="cardTopic">
                   <h3>cardTopic:</h3>
@@ -126,7 +126,7 @@ const Components = () => {
           <div className="card2-vertical-md">
             <h2 className="cardTitle">card2-vertical-md</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <div className="cardContent">
                 <div className="cardTopic">
                   <h3>cardTopic:</h3>
@@ -150,7 +150,7 @@ const Components = () => {
           <div className="card2-vertical-lg">
             <h2 className="cardTitle">card2-vertical-lg</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <div className="cardContent">
                 <div className="cardTopic">
                   <h3>cardTopic:</h3>
@@ -174,7 +174,7 @@ const Components = () => {
           <div className="card2-vertical-xl">
             <h2 className="cardTitle">card2-vertical-xl</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <div className="cardContent">
                 <div className="cardTopic">
                   <h3>cardTopic:</h3>
@@ -201,7 +201,7 @@ const Components = () => {
           <div className="card2-horizontal-sm">
             <h2 className="cardTitle">card2-horizontal-sm</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <div className="cardContent">
                 <div className="cardTopic">
                   <h3>cardTopic:</h3>
@@ -225,7 +225,7 @@ const Components = () => {
           <div className="card2-horizontal-md">
             <h2 className="cardTitle">card2-horizontal-md</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <div className="cardContent">
                 <div className="cardTopic">
                   <h3>cardTopic:</h3>
@@ -251,7 +251,7 @@ const Components = () => {
           <div className="card2-horizontal-lg">
             <h2 className="cardTitle">card2-horizontal-lg</h2>
             <div className="cardBody">
-              <img src="./foto.png" alt="foto"/>
+              <img src="/public/foto.png" alt="foto"/>
               <div className="cardContent">
                 <div className="cardTopic">
                   <h3>cardTopic:</h3>
@@ -275,7 +275,7 @@ const Components = () => {
           <div className="card2-horizontal-xl">
             <h2 className="cardTitle">card2-horizontal-xl</h2>
             <div className="cardBody">
-              <img src="../foto.png" alt="foto"/>
+              <img src="./public/foto.png" alt="foto"/>
               <div className="cardContent">
                 <div className="cardTopic">
                   <h3>cardTopic:</h3>
