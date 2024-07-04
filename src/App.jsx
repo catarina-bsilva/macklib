@@ -1,6 +1,6 @@
 import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
 import { useEffect } from "react"
-import macklib from "../public/mackllib.zip"
+import macklib from "../public/macklib.zip"
 function App() {
   const handleDownload = () => {
     const link = document.createElement('a');
