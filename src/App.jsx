@@ -1,7 +1,6 @@
   import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
   import { useEffect } from "react"
-  import macklib from "../public/macklib.zip"
-
+  import macklib from '../src/assets/macklib.zip'
   function App() {
 
     useEffect(() => {
