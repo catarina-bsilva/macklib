@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
+import { addClipboardEventListener, removeClipboardEventListener } from '../clipboard'
 import { useEffect } from "react"
 const Macklib = () => {
   useEffect(() => {

@@ -1,6 +1,6 @@
 import bd from '../../assets/bd.json'
 import showToggle from "../ShowToggle"
-import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
+import { addClipboardEventListener, removeClipboardEventListener } from '../clipboard'
 import { useEffect } from "react"
 const Paletes = () => {
     useEffect(() => {
