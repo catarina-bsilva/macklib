@@ -4,7 +4,7 @@ const header = () => {
   return (
     <header className="navbar2 navbar-sm bg-color3">
         <div className="siteTitle fontSize-xl fontWeight-lg font-secondary">
-        <Link to="/colors">Macklib</Link>
+        <Link className="fontSize-xl fontWeight-lg font-secondary" to="/colors">Macklib</Link>
         </div>
         <nav className="navbar-row fontSize-md">
                 <Link className="fontWeight-lg" to="/colors">Colors</Link>

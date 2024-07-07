@@ -1,6 +1,7 @@
 import showToggle from "../../ShowToggle"
 import { useEffect } from "react"
 import { addClipboardEventListener, removeClipboardEventListener } from "../../clipboard"
+import { FiCopy } from "react-icons/fi"
 
 const Utilities = () => {
 
@@ -19,7 +20,7 @@ const Utilities = () => {
         <div className="container display-flex justify-space-between align-center">
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1" >padding-0: </h4>
+              <h4 className="fontWeight-lg padding-1" >padding-0 <FiCopy /> </h4><span> : </span>
               <p className="padding-1">0px</p>
             </div>
             <div className="display-flex">
