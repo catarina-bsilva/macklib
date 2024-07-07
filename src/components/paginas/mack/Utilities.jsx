@@ -1,6 +1,6 @@
 import showToggle from "../../ShowToggle"
 import { useEffect } from "react"
-import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
+import { addClipboardEventListener, removeClipboardEventListener } from "../../clipboard"
 
 const Utilities = () => {
 

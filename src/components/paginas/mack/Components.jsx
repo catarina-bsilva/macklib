@@ -1,6 +1,6 @@
 import showToggle from "../../ShowToggle"
 import foto from '../../../../public/foto.png'
-import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
+import { addClipboardEventListener, removeClipboardEventListener } from "../../clipboard"
   import { useEffect } from "react"
 const Components = () => {
   useEffect(() => {
