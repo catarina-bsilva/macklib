@@ -43,10 +43,10 @@ const Text = () => {
       <h3 onClick={showToggle} className="bg-colorGrey-light-7  text-color3 textAlign-center borderRadius-2 margin-2 padding-2 pointer">List Styles</h3>
       <div style={{display: 'none'}} className="m-a textAlign-center">
         <ul className="m-a">
-          <li className="listStyle-none padding-2 width-2 m-a">listStyle-none</li>
-          <li className="listStyle-disc padding-2 width-2 m-a">listStyle-disc</li>
-          <li className="listStyle-circle padding-2 width-2 m-a">listStyle-circle</li>
-          <li className="listStyle-square padding-2 width-2 m-a">listStyle-square</li>
+          <li className="listStyle-none padding-2 width-2 m-a">listStyle-none<CopyableText /></li>
+          <li className="listStyle-disc padding-2 width-2 m-a">listStyle-disc<CopyableText /></li>
+          <li className="listStyle-circle padding-2 width-2 m-a">listStyle-circle<CopyableText /></li>
+          <li className="listStyle-square padding-2 width-2 m-a">listStyle-square<CopyableText /></li>
         </ul>
         
       </div>

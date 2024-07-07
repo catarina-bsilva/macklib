@@ -137,6 +137,7 @@ const Grid = () => {
             <p className="textAlign">col-12-xl <CopyableText /></p>
           </div>
         </div>
+        <br />
       </div>
     </div>
   )

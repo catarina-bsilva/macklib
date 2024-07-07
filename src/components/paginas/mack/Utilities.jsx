@@ -445,22 +445,22 @@ const Utilities = () => {
       <div style={{display: 'none'}}>
         <div className=" container display-flex flexDirection-column justify-center align-center">
           <div className="boxShadow-0 width-1 margin-1">
-            <p>boxShadow-0</p>
+            <p>boxShadow-0 <CopyableText /></p>
           </div>
           <div className="boxShadow-1 width-1 margin-1">
-            <p>boxShadow-1</p>
+            <p>boxShadow-1 <CopyableText /></p>
           </div>
           <div className="boxShadow-2 width-1 margin-1">
-            <p>boxShadow-2</p>
+            <p>boxShadow-2 <CopyableText /></p>
           </div>
           <div className="boxShadow-3 width-1 margin-1">
-            <p>boxShadow-3</p>
+            <p>boxShadow-3 <CopyableText /></p>
           </div>
           <div className="boxShadow-4 width-1 margin-1">
-            <p>boxShadow-4</p>
+            <p>boxShadow-4 <CopyableText /></p>
           </div>
           <div className="boxShadow-5 width-1 margin-1">
-            <p>boxShadow-5</p>
+            <p>boxShadow-5 <CopyableText /></p>
           </div>
           <br />
         </div>
@@ -470,16 +470,16 @@ const Utilities = () => {
       <div style={{display: 'none'}}>
         <div className="container display-flex justify-space-around">
           <div className="display-flex flexDirection-column justify-center align-center">
-            <p>display-none</p>
-            <p>display-block</p>
-            <p>display-inline</p>
-            <p>display-inlineBlock</p>
-            <p>display-flex</p>
-            <p>display-grid</p>
+            <p>display-none <CopyableText /></p>
+            <p>display-block <CopyableText /></p>
+            <p>display-inline <CopyableText /></p>
+            <p>display-inlineBlock <CopyableText /></p>
+            <p>display-flex <CopyableText /></p>
+            <p>display-grid <CopyableText /></p>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
-            <p>flexDirection-row</p>
-            <p>flexDirection-column</p>
+            <p>flexDirection-row <CopyableText /></p>
+            <p>flexDirection-column <CopyableText /></p>
           </div>
         </div>
       </div>
@@ -487,43 +487,43 @@ const Utilities = () => {
       <div style={{display: 'none'}}>
       <div className="container display-flex justify-space-around">
           <div className="display-flex flexDirection-column justify-center align-center">
-            <p>position-relative</p>
-            <p>position-absolute</p>
-            <p>position-fixed</p>
-            <p>position-sticky</p>
-            <p>position-static</p>
+            <p>position-relative <CopyableText /></p>
+            <p>position-absolute <CopyableText /></p>
+            <p>position-fixed <CopyableText /></p>
+            <p>position-sticky <CopyableText /></p>
+            <p>position-static <CopyableText /></p>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
-            <p>position-top0</p>
-            <p>position-top1</p>
-            <p>position-top2</p>
-            <p>position-top3</p>
-            <p>position-top4</p>
-            <p>position-top5</p>
+            <p>position-top0 <CopyableText /></p>
+            <p>position-top1 <CopyableText /></p>
+            <p>position-top2 <CopyableText /></p>
+            <p>position-top3 <CopyableText /></p>
+            <p>position-top4 <CopyableText /></p>
+            <p>position-top5 <CopyableText /></p>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
-            <p>position-bottom0</p>
-            <p>position-bottom1</p>
-            <p>position-bottom2</p>
-            <p>position-bottom3</p>
-            <p>position-bottom4</p>
-            <p>position-bottom5</p>
+            <p>position-bottom0 <CopyableText /></p>
+            <p>position-bottom1 <CopyableText /></p>
+            <p>position-bottom2 <CopyableText /></p>
+            <p>position-bottom3 <CopyableText /></p>
+            <p>position-bottom4 <CopyableText /></p>
+            <p>position-bottom5 <CopyableText /></p>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
-            <p>position-right0</p>
-            <p>position-right1</p>
-            <p>position-right2</p>
-            <p>position-right3</p>
-            <p>position-right4</p>
-            <p>position-right5</p>
+            <p>position-right0 <CopyableText /></p>
+            <p>position-right1 <CopyableText /></p>
+            <p>position-right2 <CopyableText /></p>
+            <p>position-right3 <CopyableText /></p>
+            <p>position-right4 <CopyableText /></p>
+            <p>position-right5 <CopyableText /></p>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
-            <p>position-left0</p>
-            <p>position-left1</p>
-            <p>position-left2</p>
-            <p>position-left3</p>
-            <p>position-left4</p>
-            <p>position-left5</p>
+            <p>position-left0 <CopyableText /></p>
+            <p>position-left1 <CopyableText /></p>
+            <p>position-left2 <CopyableText /></p>
+            <p>position-left3 <CopyableText /></p>
+            <p>position-left4 <CopyableText /></p>
+            <p>position-left5 <CopyableText /></p>
           </div>
         </div>
       </div>

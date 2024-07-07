@@ -46,203 +46,203 @@ const Colors = () => {
         <p className="padding-2 textAlign-center text-colorDark bg-colorGreen fontSize-sm fontWeight-lg width-2 m-a"> bg-colorGreen <CopyableText /></p>
         <div className="container100">
           <br />
-          <span className="fontSize-xs bg-color1-light-1 width-2 padding-2 margin-1">bg-color1-light-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-light-1 width-2 padding-2 margin-1">bg-color2-light-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-light-1 width-2 padding-2 margin-1">bg-color3-light-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-light-1 width-2 padding-2 margin-1">bg-color4-light-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-light-1 width-2 padding-2 margin-1">bg-colorRed-light-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-light-1 width-2 padding-2 margin-1">bg-colorBlue-light-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-light-1 width-2 padding-2 margin-1">bg-colorYellow-light-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-light-1 width-2 padding-2 margin-1">bg-colorGreen-light-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-light-1 width-2 padding-2 margin-1">bg-colorGrey-light-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-light-1 width-1 padding-2 margin-1">bg-color1-light-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-light-1 width-1 padding-2 margin-1">bg-color2-light-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-light-1 width-1 padding-2 margin-1">bg-color3-light-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-light-1 width-1 padding-2 margin-1">bg-color4-light-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-light-1 width-1 padding-2 margin-1">bg-colorRed-light-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-light-1 width-1 padding-2 margin-1">bg-colorBlue-light-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-light-1 width-1 padding-2 margin-1">bg-colorYellow-light-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-light-1 width-1 padding-2 margin-1">bg-colorGreen-light-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-light-1 width-1 padding-2 margin-1">bg-colorGrey-light-1 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-light-2 width-2 padding-2 margin-1">bg-color1-light-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-light-2 width-2 padding-2 margin-1">bg-color2-light-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-light-2 width-2 padding-2 margin-1">bg-color3-light-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-light-2 width-2 padding-2 margin-1">bg-color4-light-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-light-2 width-2 padding-2 margin-1">bg-colorRed-light-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-light-2 width-2 padding-2 margin-1">bg-colorBlue-light-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-light-2 width-2 padding-2 margin-1">bg-colorYellow-light-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-light-2 width-2 padding-2 margin-1">bg-colorGreen-light-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-light-2 width-2 padding-2 margin-1">bg-colorGrey-light-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-light-2 width-1 padding-2 margin-1">bg-color1-light-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-light-2 width-1 padding-2 margin-1">bg-color2-light-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-light-2 width-1 padding-2 margin-1">bg-color3-light-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-light-2 width-1 padding-2 margin-1">bg-color4-light-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-light-2 width-1 padding-2 margin-1">bg-colorRed-light-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-light-2 width-1 padding-2 margin-1">bg-colorBlue-light-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-light-2 width-1 padding-2 margin-1">bg-colorYellow-light-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-light-2 width-1 padding-2 margin-1">bg-colorGreen-light-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-light-2 width-1 padding-2 margin-1">bg-colorGrey-light-2 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-light-3 width-2 padding-2 margin-1">bg-color1-light-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-light-3 width-2 padding-2 margin-1">bg-color2-light-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-light-3 width-2 padding-2 margin-1">bg-color3-light-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-light-3 width-2 padding-2 margin-1">bg-color4-light-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-light-3 width-2 padding-2 margin-1">bg-colorRed-light-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-light-3 width-2 padding-2 margin-1">bg-colorBlue-light-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-light-3 width-2 padding-2 margin-1">bg-colorYellow-light-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-light-3 width-2 padding-2 margin-1">bg-colorGreen-light-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-light-3 width-2 padding-2 margin-1">bg-colorGrey-light-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-light-3 width-1 padding-2 margin-1">bg-color1-light-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-light-3 width-1 padding-2 margin-1">bg-color2-light-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-light-3 width-1 padding-2 margin-1">bg-color3-light-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-light-3 width-1 padding-2 margin-1">bg-color4-light-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-light-3 width-1 padding-2 margin-1">bg-colorRed-light-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-light-3 width-1 padding-2 margin-1">bg-colorBlue-light-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-light-3 width-1 padding-2 margin-1">bg-colorYellow-light-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-light-3 width-1 padding-2 margin-1">bg-colorGreen-light-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-light-3 width-1 padding-2 margin-1">bg-colorGrey-light-3 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-light-4 width-2 padding-2 margin-1">bg-color1-light-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-light-4 width-2 padding-2 margin-1">bg-color2-light-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-light-4 width-2 padding-2 margin-1">bg-color3-light-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-light-4 width-2 padding-2 margin-1">bg-color4-light-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-light-4 width-2 padding-2 margin-1">bg-colorRed-light-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-light-4 width-2 padding-2 margin-1">bg-colorBlue-light-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-light-4 width-2 padding-2 margin-1">bg-colorYellow-light-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-light-4 width-2 padding-2 margin-1">bg-colorGreen-light-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-light-4 width-2 padding-2 margin-1">bg-colorGrey-light-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-light-4 width-1 padding-2 margin-1">bg-color1-light-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-light-4 width-1 padding-2 margin-1">bg-color2-light-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-light-4 width-1 padding-2 margin-1">bg-color3-light-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-light-4 width-1 padding-2 margin-1">bg-color4-light-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-light-4 width-1 padding-2 margin-1">bg-colorRed-light-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-light-4 width-1 padding-2 margin-1">bg-colorBlue-light-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-light-4 width-1 padding-2 margin-1">bg-colorYellow-light-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-light-4 width-1 padding-2 margin-1">bg-colorGreen-light-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-light-4 width-1 padding-2 margin-1">bg-colorGrey-light-4 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-light-5 width-2 padding-2 margin-1">bg-color1-light-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-light-5 width-2 padding-2 margin-1">bg-color2-light-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-light-5 width-2 padding-2 margin-1">bg-color3-light-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-light-5 width-2 padding-2 margin-1">bg-color4-light-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-light-5 width-2 padding-2 margin-1">bg-colorRed-light-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-light-5 width-2 padding-2 margin-1">bg-colorBlue-light-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-light-5 width-2 padding-2 margin-1">bg-colorYellow-light-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-light-5 width-2 padding-2 margin-1">bg-colorGreen-light-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-light-5 width-2 padding-2 margin-1">bg-colorGrey-light-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-light-5 width-1 padding-2 margin-1">bg-color1-light-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-light-5 width-1 padding-2 margin-1">bg-color2-light-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-light-5 width-1 padding-2 margin-1">bg-color3-light-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-light-5 width-1 padding-2 margin-1">bg-color4-light-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-light-5 width-1 padding-2 margin-1">bg-colorRed-light-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-light-5 width-1 padding-2 margin-1">bg-colorBlue-light-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-light-5 width-1 padding-2 margin-1">bg-colorYellow-light-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-light-5 width-1 padding-2 margin-1">bg-colorGreen-light-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-light-5 width-1 padding-2 margin-1">bg-colorGrey-light-5 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-light-6 width-2 padding-2 margin-1">bg-color1-light-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-light-6 width-2 padding-2 margin-1">bg-color2-light-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-light-6 width-2 padding-2 margin-1">bg-color3-light-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-light-6 width-2 padding-2 margin-1">bg-color4-light-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-light-6 width-2 padding-2 margin-1">bg-colorRed-light-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-light-6 width-2 padding-2 margin-1">bg-colorBlue-light-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-light-6 width-2 padding-2 margin-1">bg-colorYellow-light-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-light-6 width-2 padding-2 margin-1">bg-colorGreen-light-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-light-6 width-2 padding-2 margin-1">bg-colorGrey-light-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-light-6 width-1 padding-2 margin-1">bg-color1-light-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-light-6 width-1 padding-2 margin-1">bg-color2-light-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-light-6 width-1 padding-2 margin-1">bg-color3-light-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-light-6 width-1 padding-2 margin-1">bg-color4-light-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-light-6 width-1 padding-2 margin-1">bg-colorRed-light-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-light-6 width-1 padding-2 margin-1">bg-colorBlue-light-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-light-6 width-1 padding-2 margin-1">bg-colorYellow-light-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-light-6 width-1 padding-2 margin-1">bg-colorGreen-light-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-light-6 width-1 padding-2 margin-1">bg-colorGrey-light-6 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-light-7 width-2 padding-2 margin-1">bg-color1-light-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-light-7 width-2 padding-2 margin-1">bg-color2-light-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-light-7 width-2 padding-2 margin-1">bg-color3-light-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-light-7 width-2 padding-2 margin-1">bg-color4-light-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-light-7 width-2 padding-2 margin-1">bg-colorRed-light-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-light-7 width-2 padding-2 margin-1">bg-colorBlue-light-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-light-7 width-2 padding-2 margin-1">bg-colorYellow-light-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-light-7 width-2 padding-2 margin-1">bg-colorGreen-light-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-light-7 width-2 padding-2 margin-1">bg-colorGrey-light-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-light-7 width-1 padding-2 margin-1">bg-color1-light-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-light-7 width-1 padding-2 margin-1">bg-color2-light-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-light-7 width-1 padding-2 margin-1">bg-color3-light-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-light-7 width-1 padding-2 margin-1">bg-color4-light-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-light-7 width-1 padding-2 margin-1">bg-colorRed-light-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-light-7 width-1 padding-2 margin-1">bg-colorBlue-light-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-light-7 width-1 padding-2 margin-1">bg-colorYellow-light-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-light-7 width-1 padding-2 margin-1">bg-colorGreen-light-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-light-7 width-1 padding-2 margin-1">bg-colorGrey-light-7 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-light-8 width-2 padding-2 margin-1">bg-color1-light-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-light-8 width-2 padding-2 margin-1">bg-color2-light-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-light-8 width-2 padding-2 margin-1">bg-color3-light-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-light-8 width-2 padding-2 margin-1">bg-color4-light-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-light-8 width-2 padding-2 margin-1">bg-colorRed-light-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-light-8 width-2 padding-2 margin-1">bg-colorBlue-light-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-light-8 width-2 padding-2 margin-1">bg-colorYellow-light-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-light-8 width-2 padding-2 margin-1">bg-colorGreen-light-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-light-8 width-2 padding-2 margin-1">bg-colorGrey-light-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-light-8 width-1 padding-2 margin-1">bg-color1-light-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-light-8 width-1 padding-2 margin-1">bg-color2-light-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-light-8 width-1 padding-2 margin-1">bg-color3-light-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-light-8 width-1 padding-2 margin-1">bg-color4-light-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-light-8 width-1 padding-2 margin-1">bg-colorRed-light-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-light-8 width-1 padding-2 margin-1">bg-colorBlue-light-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-light-8 width-1 padding-2 margin-1">bg-colorYellow-light-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-light-8 width-1 padding-2 margin-1">bg-colorGreen-light-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-light-8 width-1 padding-2 margin-1">bg-colorGrey-light-8 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-light-9 width-2 padding-2 margin-1">bg-color1-light-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-light-9 width-2 padding-2 margin-1">bg-color2-light-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-light-9 width-2 padding-2 margin-1">bg-color3-light-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-light-9 width-2 padding-2 margin-1">bg-color4-light-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-light-9 width-2 padding-2 margin-1">bg-colorRed-light-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-light-9 width-2 padding-2 margin-1">bg-colorBlue-light-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-light-9 width-2 padding-2 margin-1">bg-colorYellow-light-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-light-9 width-2 padding-2 margin-1">bg-colorGreen-light-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-light-9 width-2 padding-2 margin-1">bg-colorGrey-light-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-light-9 width-1 padding-2 margin-1">bg-color1-light-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-light-9 width-1 padding-2 margin-1">bg-color2-light-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-light-9 width-1 padding-2 margin-1">bg-color3-light-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-light-9 width-1 padding-2 margin-1">bg-color4-light-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-light-9 width-1 padding-2 margin-1">bg-colorRed-light-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-light-9 width-1 padding-2 margin-1">bg-colorBlue-light-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-light-9 width-1 padding-2 margin-1">bg-colorYellow-light-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-light-9 width-1 padding-2 margin-1">bg-colorGreen-light-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-light-9 width-1 padding-2 margin-1">bg-colorGrey-light-9 <CopyableText /></span>
           <br />
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-dark-1 text-colorLight width-2 padding-2 margin-1">bg-color1-dark-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-dark-1 text-colorLight width-2 padding-2 margin-1">bg-color2-dark-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-dark-1 text-colorLight width-2 padding-2 margin-1">bg-color3-dark-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-dark-1 text-colorLight width-2 padding-2 margin-1">bg-color4-dark-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-dark-1 text-colorLight width-2 padding-2 margin-1">bg-colorRed-dark-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-dark-1 text-colorLight width-2 padding-2 margin-1">bg-colorBlue-dark-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-dark-1 text-colorLight width-2 padding-2 margin-1">bg-colorYellow-dark-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-dark-1 text-colorLight width-2 padding-2 margin-1">bg-colorGreen-dark-1 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-dark-1 text-colorLight width-2 padding-2 margin-1">bg-colorGrey-dark-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-dark-1 text-colorLight width-1 padding-2 margin-1">bg-color1-dark-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-dark-1 text-colorLight width-1 padding-2 margin-1">bg-color2-dark-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-dark-1 text-colorLight width-1 padding-2 margin-1">bg-color3-dark-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-dark-1 text-colorLight width-1 padding-2 margin-1">bg-color4-dark-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-dark-1 text-colorLight width-1 padding-2 margin-1">bg-colorRed-dark-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-dark-1 text-colorLight width-1 padding-2 margin-1">bg-colorBlue-dark-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-dark-1 text-colorLight width-1 padding-2 margin-1">bg-colorYellow-dark-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-dark-1 text-colorLight width-1 padding-2 margin-1">bg-colorGreen-dark-1 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-dark-1 text-colorLight width-1 padding-2 margin-1">bg-colorGrey-dark-1 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-dark-2 text-colorLight width-2 padding-2 margin-1">bg-color1-dark-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-dark-2 text-colorLight width-2 padding-2 margin-1">bg-color2-dark-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-dark-2 text-colorLight width-2 padding-2 margin-1">bg-color3-dark-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-dark-2 text-colorLight width-2 padding-2 margin-1">bg-color4-dark-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-dark-2 text-colorLight width-2 padding-2 margin-1">bg-colorRed-dark-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-dark-2 text-colorLight width-2 padding-2 margin-1">bg-colorBlue-dark-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-dark-2 text-colorLight width-2 padding-2 margin-1">bg-colorYellow-dark-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-dark-2 text-colorLight width-2 padding-2 margin-1">bg-colorGreen-dark-2 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-dark-2 text-colorLight width-2 padding-2 margin-1">bg-colorGrey-dark-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-dark-2 text-colorLight width-1 padding-2 margin-1">bg-color1-dark-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-dark-2 text-colorLight width-1 padding-2 margin-1">bg-color2-dark-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-dark-2 text-colorLight width-1 padding-2 margin-1">bg-color3-dark-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-dark-2 text-colorLight width-1 padding-2 margin-1">bg-color4-dark-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-dark-2 text-colorLight width-1 padding-2 margin-1">bg-colorRed-dark-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-dark-2 text-colorLight width-1 padding-2 margin-1">bg-colorBlue-dark-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-dark-2 text-colorLight width-1 padding-2 margin-1">bg-colorYellow-dark-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-dark-2 text-colorLight width-1 padding-2 margin-1">bg-colorGreen-dark-2 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-dark-2 text-colorLight width-1 padding-2 margin-1">bg-colorGrey-dark-2 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-dark-3 text-colorLight width-2 padding-2 margin-1">bg-color1-dark-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-dark-3 text-colorLight width-2 padding-2 margin-1">bg-color2-dark-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-dark-3 text-colorLight width-2 padding-2 margin-1">bg-color3-dark-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-dark-3 text-colorLight width-2 padding-2 margin-1">bg-color4-dark-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-dark-3 text-colorLight width-2 padding-2 margin-1">bg-colorRed-dark-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-dark-3 text-colorLight width-2 padding-2 margin-1">bg-colorBlue-dark-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-dark-3 text-colorLight width-2 padding-2 margin-1">bg-colorYellow-dark-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-dark-3 text-colorLight width-2 padding-2 margin-1">bg-colorGreen-dark-3 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-dark-3 text-colorLight width-2 padding-2 margin-1">bg-colorGrey-dark-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-dark-3 text-colorLight width-1 padding-2 margin-1">bg-color1-dark-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-dark-3 text-colorLight width-1 padding-2 margin-1">bg-color2-dark-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-dark-3 text-colorLight width-1 padding-2 margin-1">bg-color3-dark-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-dark-3 text-colorLight width-1 padding-2 margin-1">bg-color4-dark-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-dark-3 text-colorLight width-1 padding-2 margin-1">bg-colorRed-dark-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-dark-3 text-colorLight width-1 padding-2 margin-1">bg-colorBlue-dark-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-dark-3 text-colorLight width-1 padding-2 margin-1">bg-colorYellow-dark-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-dark-3 text-colorLight width-1 padding-2 margin-1">bg-colorGreen-dark-3 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-dark-3 text-colorLight width-1 padding-2 margin-1">bg-colorGrey-dark-3 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-dark-4 text-colorLight width-2 padding-2 margin-1">bg-color1-dark-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-dark-4 text-colorLight width-2 padding-2 margin-1">bg-color2-dark-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-dark-4 text-colorLight width-2 padding-2 margin-1">bg-color3-dark-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-dark-4 text-colorLight width-2 padding-2 margin-1">bg-color4-dark-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-dark-4 text-colorLight width-2 padding-2 margin-1">bg-colorRed-dark-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-dark-4 text-colorLight width-2 padding-2 margin-1">bg-colorBlue-dark-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-dark-4 text-colorLight width-2 padding-2 margin-1">bg-colorYellow-dark-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-dark-4 text-colorLight width-2 padding-2 margin-1">bg-colorGreen-dark-4 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-dark-4 text-colorLight width-2 padding-2 margin-1">bg-colorGrey-dark-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-dark-4 text-colorLight width-1 padding-2 margin-1">bg-color1-dark-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-dark-4 text-colorLight width-1 padding-2 margin-1">bg-color2-dark-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-dark-4 text-colorLight width-1 padding-2 margin-1">bg-color3-dark-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-dark-4 text-colorLight width-1 padding-2 margin-1">bg-color4-dark-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-dark-4 text-colorLight width-1 padding-2 margin-1">bg-colorRed-dark-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-dark-4 text-colorLight width-1 padding-2 margin-1">bg-colorBlue-dark-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-dark-4 text-colorLight width-1 padding-2 margin-1">bg-colorYellow-dark-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-dark-4 text-colorLight width-1 padding-2 margin-1">bg-colorGreen-dark-4 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-dark-4 text-colorLight width-1 padding-2 margin-1">bg-colorGrey-dark-4 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-dark-5 text-colorLight width-2 padding-2 margin-1">bg-color1-dark-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-dark-5 text-colorLight width-2 padding-2 margin-1">bg-color2-dark-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-dark-5 text-colorLight width-2 padding-2 margin-1">bg-color3-dark-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-dark-5 text-colorLight width-2 padding-2 margin-1">bg-color4-dark-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-dark-5 text-colorLight width-2 padding-2 margin-1">bg-colorRed-dark-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-dark-5 text-colorLight width-2 padding-2 margin-1">bg-colorBlue-dark-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-dark-5 text-colorLight width-2 padding-2 margin-1">bg-colorYellow-dark-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-dark-5 text-colorLight width-2 padding-2 margin-1">bg-colorGreen-dark-5 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-dark-5 text-colorLight width-2 padding-2 margin-1">bg-colorGrey-dark-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-dark-5 text-colorLight width-1 padding-2 margin-1">bg-color1-dark-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-dark-5 text-colorLight width-1 padding-2 margin-1">bg-color2-dark-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-dark-5 text-colorLight width-1 padding-2 margin-1">bg-color3-dark-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-dark-5 text-colorLight width-1 padding-2 margin-1">bg-color4-dark-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-dark-5 text-colorLight width-1 padding-2 margin-1">bg-colorRed-dark-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-dark-5 text-colorLight width-1 padding-2 margin-1">bg-colorBlue-dark-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-dark-5 text-colorLight width-1 padding-2 margin-1">bg-colorYellow-dark-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-dark-5 text-colorLight width-1 padding-2 margin-1">bg-colorGreen-dark-5 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-dark-5 text-colorLight width-1 padding-2 margin-1">bg-colorGrey-dark-5 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-dark-6 text-colorLight width-2 padding-2 margin-1">bg-color1-dark-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-dark-6 text-colorLight width-2 padding-2 margin-1">bg-color2-dark-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-dark-6 text-colorLight width-2 padding-2 margin-1">bg-color3-dark-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-dark-6 text-colorLight width-2 padding-2 margin-1">bg-color4-dark-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-dark-6 text-colorLight width-2 padding-2 margin-1">bg-colorRed-dark-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-dark-6 text-colorLight width-2 padding-2 margin-1">bg-colorBlue-dark-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-dark-6 text-colorLight width-2 padding-2 margin-1">bg-colorYellow-dark-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-dark-6 text-colorLight width-2 padding-2 margin-1">bg-colorGreen-dark-6 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-dark-6 text-colorLight width-2 padding-2 margin-1">bg-colorGrey-dark-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-dark-6 text-colorLight width-1 padding-2 margin-1">bg-color1-dark-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-dark-6 text-colorLight width-1 padding-2 margin-1">bg-color2-dark-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-dark-6 text-colorLight width-1 padding-2 margin-1">bg-color3-dark-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-dark-6 text-colorLight width-1 padding-2 margin-1">bg-color4-dark-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-dark-6 text-colorLight width-1 padding-2 margin-1">bg-colorRed-dark-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-dark-6 text-colorLight width-1 padding-2 margin-1">bg-colorBlue-dark-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-dark-6 text-colorLight width-1 padding-2 margin-1">bg-colorYellow-dark-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-dark-6 text-colorLight width-1 padding-2 margin-1">bg-colorGreen-dark-6 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-dark-6 text-colorLight width-1 padding-2 margin-1">bg-colorGrey-dark-6 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-dark-7 text-colorLight width-2 padding-2 margin-1">bg-color1-dark-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-dark-7 text-colorLight width-2 padding-2 margin-1">bg-color2-dark-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-dark-7 text-colorLight width-2 padding-2 margin-1">bg-color3-dark-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-dark-7 text-colorLight width-2 padding-2 margin-1">bg-color4-dark-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-dark-7 text-colorLight width-2 padding-2 margin-1">bg-colorRed-dark-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-dark-7 text-colorLight width-2 padding-2 margin-1">bg-colorBlue-dark-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-dark-7 text-colorLight width-2 padding-2 margin-1">bg-colorYellow-dark-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-dark-7 text-colorLight width-2 padding-2 margin-1">bg-colorGreen-dark-7 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-dark-7 text-colorLight width-2 padding-2 margin-1">bg-colorGrey-dark-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-dark-7 text-colorLight width-1 padding-2 margin-1">bg-color1-dark-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-dark-7 text-colorLight width-1 padding-2 margin-1">bg-color2-dark-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-dark-7 text-colorLight width-1 padding-2 margin-1">bg-color3-dark-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-dark-7 text-colorLight width-1 padding-2 margin-1">bg-color4-dark-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-dark-7 text-colorLight width-1 padding-2 margin-1">bg-colorRed-dark-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-dark-7 text-colorLight width-1 padding-2 margin-1">bg-colorBlue-dark-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-dark-7 text-colorLight width-1 padding-2 margin-1">bg-colorYellow-dark-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-dark-7 text-colorLight width-1 padding-2 margin-1">bg-colorGreen-dark-7 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-dark-7 text-colorLight width-1 padding-2 margin-1">bg-colorGrey-dark-7 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-dark-8 text-colorLight width-2 padding-2 margin-1">bg-color1-dark-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-dark-8 text-colorLight width-2 padding-2 margin-1">bg-color2-dark-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-dark-8 text-colorLight width-2 padding-2 margin-1">bg-color3-dark-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-dark-8 text-colorLight width-2 padding-2 margin-1">bg-color4-dark-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-dark-8 text-colorLight width-2 padding-2 margin-1">bg-colorRed-dark-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-dark-8 text-colorLight width-2 padding-2 margin-1">bg-colorBlue-dark-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-dark-8 text-colorLight width-2 padding-2 margin-1">bg-colorYellow-dark-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-dark-8 text-colorLight width-2 padding-2 margin-1">bg-colorGreen-dark-8 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-dark-8 text-colorLight width-2 padding-2 margin-1">bg-colorGrey-dark-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-dark-8 text-colorLight width-1 padding-2 margin-1">bg-color1-dark-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-dark-8 text-colorLight width-1 padding-2 margin-1">bg-color2-dark-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-dark-8 text-colorLight width-1 padding-2 margin-1">bg-color3-dark-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-dark-8 text-colorLight width-1 padding-2 margin-1">bg-color4-dark-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-dark-8 text-colorLight width-1 padding-2 margin-1">bg-colorRed-dark-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-dark-8 text-colorLight width-1 padding-2 margin-1">bg-colorBlue-dark-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-dark-8 text-colorLight width-1 padding-2 margin-1">bg-colorYellow-dark-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-dark-8 text-colorLight width-1 padding-2 margin-1">bg-colorGreen-dark-8 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-dark-8 text-colorLight width-1 padding-2 margin-1">bg-colorGrey-dark-8 <CopyableText /></span>
           <br />
           <br />
-          <span className="fontSize-xs bg-color1-dark-9 text-colorLight width-2 padding-2 margin-1">bg-color1-dark-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-color2-dark-9 text-colorLight width-2 padding-2 margin-1">bg-color2-dark-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-color3-dark-9 text-colorLight width-2 padding-2 margin-1">bg-color3-dark-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-color4-dark-9 text-colorLight width-2 padding-2 margin-1">bg-color4-dark-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorRed-dark-9 text-colorLight width-2 padding-2 margin-1">bg-colorRed-dark-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorBlue-dark-9 text-colorLight width-2 padding-2 margin-1">bg-colorBlue-dark-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorYellow-dark-9 text-colorLight width-2 padding-2 margin-1">bg-colorYellow-dark-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGreen-dark-9 text-colorLight width-2 padding-2 margin-1">bg-colorGreen-dark-9 <CopyableText /></span>
-          <span className="fontSize-xs bg-colorGrey-dark-9 text-colorLight width-2 padding-2 margin-1">bg-colorGrey-dark-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-color1-dark-9 text-colorLight width-1 padding-2 margin-1">bg-color1-dark-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-color2-dark-9 text-colorLight width-1 padding-2 margin-1">bg-color2-dark-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-color3-dark-9 text-colorLight width-1 padding-2 margin-1">bg-color3-dark-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-color4-dark-9 text-colorLight width-1 padding-2 margin-1">bg-color4-dark-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorRed-dark-9 text-colorLight width-1 padding-2 margin-1">bg-colorRed-dark-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorBlue-dark-9 text-colorLight width-1 padding-2 margin-1">bg-colorBlue-dark-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorYellow-dark-9 text-colorLight width-1 padding-2 margin-1">bg-colorYellow-dark-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGreen-dark-9 text-colorLight width-1 padding-2 margin-1">bg-colorGreen-dark-9 <CopyableText /></span>
+          <span className="fontSize-xs bg-colorGrey-dark-9 text-colorLight width-1 padding-2 margin-1">bg-colorGrey-dark-9 <CopyableText /></span>
           <br />
           <br />
         </div>
