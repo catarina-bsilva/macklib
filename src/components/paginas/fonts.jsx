@@ -1,16 +1,9 @@
 import bd from '../../assets/bd.json'
 import showToggle from "../ShowToggle"
-import { addClipboardEventListener, removeClipboardEventListener } from '../clipboard'
-import { useEffect } from 'react';
+import CopyableText from '../copy'
 
 const Fonts = () => {
-    useEffect(() => {
-        addClipboardEventListener();
-    
-        return () => {
-          removeClipboardEventListener();
-        };
-      }, []); 
+
   return (
     <div className='container'>
         <h2 className="fontSize-lg text-color3 padding-3 textAlign-center">Fonts</h2>
@@ -23,7 +16,7 @@ const Fonts = () => {
                             <ul>
                                 {category[key].map((font,fontIndex) => (
                                     <li key={fontIndex} className='padding-2 textAlign-center' style={{fontFamily: font}}>
-                                        <span>{font}</span>
+                                        <span>{font} <CopyableText /></span>
                                     </li>
                                 ))}
                             </ul>
