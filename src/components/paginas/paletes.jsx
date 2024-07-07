@@ -1,6 +1,15 @@
 import bd from '../../assets/bd.json'
 import showToggle from "../ShowToggle"
-const paletes = () => {
+import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
+import { useEffect } from "react"
+const Paletes = () => {
+    useEffect(() => {
+        addClipboardEventListener();
+  
+        return () => {
+          removeClipboardEventListener();
+        };
+      }, []);  
   return (
     <div className='container'>
         <h2 className="fontSize-lg text-color3 padding-3 textAlign-center">Paletes</h2>
@@ -28,4 +37,4 @@ const paletes = () => {
   )
 }
 
-export default paletes
+export default Paletes

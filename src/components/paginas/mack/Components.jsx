@@ -1,7 +1,16 @@
 import showToggle from "../../ShowToggle"
 import foto from '../../../../public/foto.png'
-
+import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
+  import { useEffect } from "react"
 const Components = () => {
+  useEffect(() => {
+    addClipboardEventListener();
+
+    return () => {
+      removeClipboardEventListener();
+    };
+  }, []);
+
   return (
     <div className="container">
       <h2 className="fontSize-lg text-color3 padding-3 textAlign-center">Components</h2>

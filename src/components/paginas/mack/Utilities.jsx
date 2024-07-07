@@ -1,6 +1,16 @@
 import showToggle from "../../ShowToggle"
+import { useEffect } from "react"
+import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
 
 const Utilities = () => {
+
+  useEffect(() => {
+    addClipboardEventListener();
+
+    return () => {
+      removeClipboardEventListener();
+    };
+  }, []);
   return (
     <div className="container">
       <h2 className="fontSize-lg text-color3 padding-3 textAlign-center">Utilities</h2>
@@ -9,7 +19,7 @@ const Utilities = () => {
         <div className="container display-flex justify-space-between align-center">
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">padding-0: </h4>
+              <h4 className="fontWeight-lg padding-1" >padding-0: </h4>
               <p className="padding-1">0px</p>
             </div>
             <div className="display-flex">

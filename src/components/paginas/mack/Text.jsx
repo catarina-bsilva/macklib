@@ -1,6 +1,14 @@
 import showToggle from "../../ShowToggle"
-
+import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
+import { useEffect } from "react"
 const Text = () => {
+  useEffect(() => {
+    addClipboardEventListener();
+
+    return () => {
+      removeClipboardEventListener();
+    };
+  }, []);
   return (
     <div className="container">
       <h2 className="fontSize-lg text-color3 padding-3 textAlign-center">Text</h2>

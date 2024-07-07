@@ -1,5 +1,14 @@
 import { Link } from "react-router-dom"
-const macklib = () => {
+import { addClipboardEventListener, removeClipboardEventListener } from './components/clipboard'
+import { useEffect } from "react"
+const Macklib = () => {
+  useEffect(() => {
+    addClipboardEventListener();
+
+    return () => {
+      removeClipboardEventListener();
+    };
+  }, []);
   return (
     <div className="container">
       <h2 className="fontSize-lg text-color3 padding-3 textAlign-center">Library</h2>
@@ -22,4 +31,4 @@ const macklib = () => {
   )
 }
 
-export default macklib
+export default Macklib
