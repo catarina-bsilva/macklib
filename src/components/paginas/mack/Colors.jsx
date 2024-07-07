@@ -44,7 +44,7 @@ const Colors = () => {
         <p className="padding-2 textAlign-center text-colorDark bg-colorBlue fontSize-sm fontWeight-lg width-2 m-a"> bg-colorBlue <CopyableText /></p>
         <p className="padding-2 textAlign-center text-colorDark bg-colorYellow fontSize-sm fontWeight-lg width-2 m-a"> bg-colorYellow <CopyableText /></p>
         <p className="padding-2 textAlign-center text-colorDark bg-colorGreen fontSize-sm fontWeight-lg width-2 m-a"> bg-colorGreen <CopyableText /></p>
-        <div className="container100">
+        <div className="container100" style={{width: "100vw"}}>
           <br />
           <span className="fontSize-xs bg-color1-light-1 width-1 padding-2 margin-1">bg-color1-light-1 <CopyableText /></span>
           <span className="fontSize-xs bg-color2-light-1 width-1 padding-2 margin-1">bg-color2-light-1 <CopyableText /></span>
