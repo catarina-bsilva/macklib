@@ -20,131 +20,131 @@ const Utilities = () => {
         <div className="container display-flex justify-space-between align-center">
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1" >padding-0 <FiCopy /> </h4>
+              <h4 className="fontWeight-lg padding-1">padding-0 <FiCopy /></h4>
               <p className="padding-1">: 0px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">padding-1</h4>
+              <h4 className="fontWeight-lg padding-1">padding-1 <FiCopy /></h4>
               <p className="padding-1">: 5px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">padding-2</h4>
+              <h4 className="fontWeight-lg padding-1">padding-2 <FiCopy /></h4>
               <p className="padding-1">: 10px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">padding-3</h4>
+              <h4 className="fontWeight-lg padding-1">padding-3 <FiCopy /></h4>
               <p className="padding-1">: 20px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">padding-4</h4>
+              <h4 className="fontWeight-lg padding-1">padding-4 <FiCopy /></h4>
               <p className="padding-1">: 50px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">padding-5</h4>
+              <h4 className="fontWeight-lg padding-1">padding-5 <FiCopy /></h4>
               <p className="padding-1">: 100px</p>
             </div>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingLeft-0</h4>
+              <h4 className="fontWeight-lg padding-1">paddingLeft-0 <FiCopy /></h4>
               <p className="padding-1">: 0px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingLeft-1</h4>
+              <h4 className="fontWeight-lg padding-1">paddingLeft-1 <FiCopy /></h4>
               <p className="padding-1">: 5px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingLeft-2</h4>
+              <h4 className="fontWeight-lg padding-1">paddingLeft-2 <FiCopy /></h4>
               <p className="padding-1">: 10px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingLeft-3</h4>
+              <h4 className="fontWeight-lg padding-1">paddingLeft-3 <FiCopy /></h4>
               <p className="padding-1">: 20px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingLeft-4</h4>
+              <h4 className="fontWeight-lg padding-1">paddingLeft-4 <FiCopy /></h4>
               <p className="padding-1">: 50px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingLeft-5</h4>
+              <h4 className="fontWeight-lg padding-1">paddingLeft-5 <FiCopy /></h4>
               <p className="padding-1">: 100px</p>
             </div>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingRight-0</h4>
+              <h4 className="fontWeight-lg padding-1">paddingRight-0 <FiCopy /></h4>
               <p className="padding-1">: 0px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingRight-1</h4>
+              <h4 className="fontWeight-lg padding-1">paddingRight-1 <FiCopy /></h4>
               <p className="padding-1">: 5px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingRight-2</h4>
+              <h4 className="fontWeight-lg padding-1">paddingRight-2 <FiCopy /></h4>
               <p className="padding-1">: 10px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingRight-3</h4>
+              <h4 className="fontWeight-lg padding-1">paddingRight-3 <FiCopy /></h4>
               <p className="padding-1">: 20px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingRight-4</h4>
+              <h4 className="fontWeight-lg padding-1">paddingRight-4 <FiCopy /></h4>
               <p className="padding-1">: 50px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingRight-5</h4>
+              <h4 className="fontWeight-lg padding-1">paddingRight-5 <FiCopy /></h4>
               <p className="padding-1">: 100px</p>
             </div>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingTop-0</h4>
+              <h4 className="fontWeight-lg padding-1">paddingTop-0 <FiCopy /></h4>
               <p className="padding-1">: 0px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingTop-1</h4>
+              <h4 className="fontWeight-lg padding-1">paddingTop-1 <FiCopy /></h4>
               <p className="padding-1">: 5px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingTop-2</h4>
+              <h4 className="fontWeight-lg padding-1">paddingTop-2 <FiCopy /></h4>
               <p className="padding-1">: 10px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingTop-3</h4>
+              <h4 className="fontWeight-lg padding-1">paddingTop-3 <FiCopy /></h4>
               <p className="padding-1">: 20px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingTop-4</h4>
+              <h4 className="fontWeight-lg padding-1">paddingTop-4 <FiCopy /></h4>
               <p className="padding-1">: 50px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingTop-5</h4>
+              <h4 className="fontWeight-lg padding-1">paddingTop-5 <FiCopy /></h4>
               <p className="padding-1">: 100px</p>
             </div>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingBottom-0</h4>
+              <h4 className="fontWeight-lg padding-1">paddingBottom-0 <FiCopy /></h4>
               <p className="padding-1">: 0px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingBottom-1</h4>
+              <h4 className="fontWeight-lg padding-1">paddingBottom-1 <FiCopy /></h4>
               <p className="padding-1">: 5px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingBottom-2</h4>
+              <h4 className="fontWeight-lg padding-1">paddingBottom-2 <FiCopy /></h4>
               <p className="padding-1">: 10px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingBottom-3</h4>
+              <h4 className="fontWeight-lg padding-1">paddingBottom-3 <FiCopy /></h4>
               <p className="padding-1">: 20px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingBottom-4</h4>
+              <h4 className="fontWeight-lg padding-1">paddingBottom-4 <FiCopy /></h4>
               <p className="padding-1">: 50px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">paddingBottom-5</h4>
+              <h4 className="fontWeight-lg padding-1">paddingBottom-5 <FiCopy /></h4>
               <p className="padding-1">: 100px</p>
             </div>
           </div>
@@ -155,131 +155,131 @@ const Utilities = () => {
       <div className="container display-flex justify-space-between align-center">
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">margin-0</h4>
+              <h4 className="fontWeight-lg padding-1">margin-0 <FiCopy /></h4>
               <p className="padding-1">: 0px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">margin-1</h4>
+              <h4 className="fontWeight-lg padding-1">margin-1 <FiCopy /></h4>
               <p className="padding-1">: 5px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">margin-2</h4>
+              <h4 className="fontWeight-lg padding-1">margin-2 <FiCopy /></h4>
               <p className="padding-1">: 10px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">margin-3</h4>
+              <h4 className="fontWeight-lg padding-1">margin-3 <FiCopy /></h4>
               <p className="padding-1">: 20px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">margin-4</h4>
+              <h4 className="fontWeight-lg padding-1">margin-4 <FiCopy /></h4>
               <p className="padding-1">: 50px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">margin-5</h4>
+              <h4 className="fontWeight-lg padding-1">margin-5 <FiCopy /></h4>
               <p className="padding-1">: 100px</p>
             </div>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginLeft-0</h4>
+              <h4 className="fontWeight-lg padding-1">marginLeft-0 <FiCopy /></h4>
               <p className="padding-1">: 0px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginLeft-1</h4>
+              <h4 className="fontWeight-lg padding-1">marginLeft-1 <FiCopy /></h4>
               <p className="padding-1">: 5px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginLeft-2</h4>
+              <h4 className="fontWeight-lg padding-1">marginLeft-2 <FiCopy /></h4>
               <p className="padding-1">: 10px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginLeft-3</h4>
+              <h4 className="fontWeight-lg padding-1">marginLeft-3 <FiCopy /></h4>
               <p className="padding-1">: 20px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginLeft-4</h4>
+              <h4 className="fontWeight-lg padding-1">marginLeft-4 <FiCopy /></h4>
               <p className="padding-1">: 50px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginLeft-5</h4>
+              <h4 className="fontWeight-lg padding-1">marginLeft-5 <FiCopy /></h4>
               <p className="padding-1">: 100px</p>
             </div>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginRight-0</h4>
+              <h4 className="fontWeight-lg padding-1">marginRight-0 <FiCopy /></h4>
               <p className="padding-1">: 0px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginRight-1</h4>
+              <h4 className="fontWeight-lg padding-1">marginRight-1 <FiCopy /></h4>
               <p className="padding-1">: 5px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginRight-2</h4>
+              <h4 className="fontWeight-lg padding-1">marginRight-2 <FiCopy /></h4>
               <p className="padding-1">: 10px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginRight-3</h4>
+              <h4 className="fontWeight-lg padding-1">marginRight-3 <FiCopy /></h4>
               <p className="padding-1">: 20px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginRight-4</h4>
+              <h4 className="fontWeight-lg padding-1">marginRight-4 <FiCopy /></h4>
               <p className="padding-1">: 50px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginRight-5</h4>
+              <h4 className="fontWeight-lg padding-1">marginRight-5 <FiCopy /></h4>
               <p className="padding-1">: 100px</p>
             </div>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginTop-0</h4>
+              <h4 className="fontWeight-lg padding-1">marginTop-0 <FiCopy /></h4>
               <p className="padding-1">: 0px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginTop-1</h4>
+              <h4 className="fontWeight-lg padding-1">marginTop-1 <FiCopy /></h4>
               <p className="padding-1">: 5px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginTop-2</h4>
+              <h4 className="fontWeight-lg padding-1">marginTop-2 <FiCopy /></h4>
               <p className="padding-1">: 10px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginTop-3</h4>
+              <h4 className="fontWeight-lg padding-1">marginTop-3 <FiCopy /></h4>
               <p className="padding-1">: 20px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginTop-4</h4>
+              <h4 className="fontWeight-lg padding-1">marginTop-4 <FiCopy /></h4>
               <p className="padding-1">: 50px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginTop-5</h4>
+              <h4 className="fontWeight-lg padding-1">marginTop-5 <FiCopy /></h4>
               <p className="padding-1">: 100px</p>
             </div>
           </div>
           <div className="display-flex flexDirection-column justify-center align-center">
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginBottom-0</h4>
+              <h4 className="fontWeight-lg padding-1">marginBottom-0 <FiCopy /></h4>
               <p className="padding-1">: 0px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginBottom-1</h4>
+              <h4 className="fontWeight-lg padding-1">marginBottom-1 <FiCopy /></h4>
               <p className="padding-1">: 5px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginBottom-2</h4>
+              <h4 className="fontWeight-lg padding-1">marginBottom-2 <FiCopy /></h4>
               <p className="padding-1">: 10px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginBottom-3</h4>
+              <h4 className="fontWeight-lg padding-1">marginBottom-3 <FiCopy /></h4>
               <p className="padding-1">: 20px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginBottom-4</h4>
+              <h4 className="fontWeight-lg padding-1">marginBottom-4 <FiCopy /></h4>
               <p className="padding-1">: 50px</p>
             </div>
             <div className="display-flex">
-              <h4 className="fontWeight-lg padding-1">marginBottom-5</h4>
+              <h4 className="fontWeight-lg padding-1">marginBottom-5 <FiCopy /></h4>
               <p className="padding-1">: 100px</p>
             </div>
           </div>
@@ -289,39 +289,39 @@ const Utilities = () => {
       <div style={{display: 'none'}}>
         <div className="container display-flex flexDirection-column justify-center align-center">
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">opacity-10</h4>
+            <h4 className="fontWeight-lg padding-1">opacity-10 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark opacity-10"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">opacity-20</h4>
+            <h4 className="fontWeight-lg padding-1">opacity-20 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark opacity-20"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">opacity-30</h4>
+            <h4 className="fontWeight-lg padding-1">opacity-30 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark opacity-30"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">opacity-40</h4>
+            <h4 className="fontWeight-lg padding-1">opacity-40 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark opacity-40"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">opacity-50</h4>
+            <h4 className="fontWeight-lg padding-1">opacity-50 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark opacity-50"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">opacity-60</h4>
+            <h4 className="fontWeight-lg padding-1">opacity-60 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark opacity-60"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">opacity-70</h4>
+            <h4 className="fontWeight-lg padding-1">opacity-70 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark opacity-70"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">opacity-80</h4>
+            <h4 className="fontWeight-lg padding-1">opacity-80 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark opacity-80"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">opacity-90</h4>
+            <h4 className="fontWeight-lg padding-1">opacity-90 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark opacity-90"></p>
           </div>
         </div>
@@ -330,122 +330,122 @@ const Utilities = () => {
       <div style={{display: 'none'}}>
       <div className="container display-flex flexDirection-column justify-center align-center">
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderRadius-0</h4>
+            <h4 className="fontWeight-lg padding-1">borderRadius-0 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark borderRadius-0"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderRadius-1</h4>
+            <h4 className="fontWeight-lg padding-1">borderRadius-1 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark borderRadius-1"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderRadius-2</h4>
+            <h4 className="fontWeight-lg padding-1">borderRadius-2 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark borderRadius-2"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderRadius-3</h4>
+            <h4 className="fontWeight-lg padding-1">borderRadius-3 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark borderRadius-3"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderRadius-4</h4>
+            <h4 className="fontWeight-lg padding-1">borderRadius-4 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark borderRadius-4"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderRadius-5</h4>
+            <h4 className="fontWeight-lg padding-1">borderRadius-5 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorDark borderRadius-5"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderRadius-25</h4>
+            <h4 className="fontWeight-lg padding-1">borderRadius-25 <FiCopy /></h4>
             <p className="padding-1 width-1 height-1 bg-colorDark borderRadius-25"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderRadius-50</h4>
+            <h4 className="fontWeight-lg padding-1">borderRadius-50 <FiCopy /></h4>
             <p className="padding-1 width-1 height-1 bg-colorDark borderRadius-50"></p>
           </div>
           <br />
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderThickness-0</h4>
+            <h4 className="fontWeight-lg padding-1">borderThickness-0 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderThickness-0 borderColor-colorDark borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderThickness-1</h4>
+            <h4 className="fontWeight-lg padding-1">borderThickness-1 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderThickness-1 borderColor-colorDark borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderThickness-2</h4>
+            <h4 className="fontWeight-lg padding-1">borderThickness-2 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderThickness-2 borderColor-colorDark borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderThickness-3</h4>
+            <h4 className="fontWeight-lg padding-1">borderThickness-3 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderThickness-3 borderColor-colorDark borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderThickness-4</h4>
+            <h4 className="fontWeight-lg padding-1">borderThickness-4 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderThickness-4 borderColor-colorDark borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderThickness-5</h4>
+            <h4 className="fontWeight-lg padding-1">borderThickness-5 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderThickness-5 borderColor-colorDark borderStyle-solid"></p>
           </div>
           <br />
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderStyle-dashed</h4>
+            <h4 className="fontWeight-lg padding-1">borderStyle-dashed <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderStyle-dashed borderColor-colorDark"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderStyle-dotted</h4>
+            <h4 className="fontWeight-lg padding-1">borderStyle-dotted <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderStyle-dotted borderColor-colorDark"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderStyle-double</h4>
+            <h4 className="fontWeight-lg padding-1">borderStyle-double <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderStyle-double borderColor-colorDark"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderStyle-solid</h4>
+            <h4 className="fontWeight-lg padding-1">borderStyle-solid <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderStyle-solid borderColor-colorDark"></p>
           </div>
           <br />
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-color1</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-color1 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderColor-color1 borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-color2</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-color2 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderColor-color2 borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-color3</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-color3 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderColor-color3 borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-color4</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-color4 <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderColor-color4 borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-colorLight</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-colorLight <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderColor-colorLight borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-colorDark</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-colorDark <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderStyle-solid borderColor-colorDark"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-colorGrey</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-colorGrey <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorLight borderColor-colorGrey borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-colorRed</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-colorRed <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderColor-colorRed borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-colorBlue</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-colorBlue <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderColor-colorBlue borderStyle-solid"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-colorGreen</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-colorGreen <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderStyle-solid borderColor-colorGreen"></p>
           </div>
           <div className="display-flex margin-1">
-            <h4 className="fontWeight-lg padding-1">borderColor-colorYellow</h4>
+            <h4 className="fontWeight-lg padding-1">borderColor-colorYellow <FiCopy /></h4>
             <p className="padding-1 width-1 bg-colorGrey borderColor-colorYellow borderStyle-solid"></p>
           </div>
         </div>
