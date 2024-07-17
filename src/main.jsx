@@ -12,7 +12,7 @@ import Components from './components/paginas/mack/Components.jsx'
 import Grid from './components/paginas/mack/Grid.jsx'
 import Text from './components/paginas/mack/Text.jsx'
 import Utilities from './components/paginas/mack/Utilities.jsx'
-import 'style.sass'
+import './style.sass'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
