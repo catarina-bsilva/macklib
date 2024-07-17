@@ -4,7 +4,7 @@ import CopyableText from '../../copy'
 const Utilities = () => {
 
   return (
-    <div className="container">
+    <div className="container bg-colorLight">
       <h2 className="fontSize-lg text-color3 padding-3 textAlign-center">Utilities</h2>
       <h3 onClick={showToggle} className="bg-colorGrey-light-7 text-color3 textAlign-center borderRadius-2 margin-2 padding-2 pointer">Padding</h3>
       <div style={{display: 'none'}}>
